@@ -1,0 +1,11 @@
+name ="roopini"
+print(len(name))
+print(name.upper())
+print(name.lower())
+print(name.swapcase())
+print(name.capitalize())
+print(name.count("i"))
+print(name.title())
+print(name.casefold ())
+print(name.startswith("r"))
+print(name.endswith("i"))
