@@ -99,4 +99,4 @@ def updatepro(product):
     print(data.matched_count)
     print(data.modified_count)
     print("update successfully!!!")
-updatepro("6adf3e8df307799946609526")
+# updatepro("6adf3e8df307799946609526")
